@@ -1,4 +1,4 @@
-<h1>Hi👋, I'm Clementine</h1>
+<h1>Hi, I'm Clementine</h1>
 <h3>Student in 42's school</h3>
 
 - I’m currently learning **C, C++ and React**
