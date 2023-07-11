@@ -1,3 +1,9 @@
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=clemcheyrou&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=clemcheyrou&theme=dark&hide_border=false" /> 
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=clemcheyrou&theme=gotham&show_icons=true" alt="shamimsikder"/>
+
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=clemcheyrou&show_icons=true&theme=gotham"/>
+</p>
+
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=clemcheyrou&theme=gotham"/>
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+</p>
