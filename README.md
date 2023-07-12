@@ -1,3 +1,5 @@
+<p>Hello my name is Clementine, I previously completed a training course at the wagon where I obtained an RNCP6 in web development and am currently studying at 42'school.</p>
+
 <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=clemcheyrou&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=clemcheyrou&show_icons=true&theme=gotham"/>
